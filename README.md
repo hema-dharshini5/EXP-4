@@ -50,13 +50,16 @@ Bridge rectifier with filter:
 
 
 Rectifier without filter
+
 <img width="757" height="441" alt="Screenshot 2025-11-09 150028" src="https://github.com/user-attachments/assets/4e2432b9-e5bf-4ea3-8f0f-e4015a0d8dd1" />
 
 
 Rectifier with filter
+
 <img width="757" height="433" alt="Screenshot 2025-11-09 150038" src="https://github.com/user-attachments/assets/e1ced5dc-9404-4e08-9efc-be195a8f9022" />
 
 WAVEFORM:
+
 <img width="752" height="444" alt="Screenshot 2025-11-09 150047" src="https://github.com/user-attachments/assets/7f122155-bb43-4e23-8dc5-3cb15da5385b" />
 
 <img width="763" height="403" alt="Screenshot 2025-11-09 150055" src="https://github.com/user-attachments/assets/62a914ed-dc3f-4620-802d-cffbc82c895b" />
