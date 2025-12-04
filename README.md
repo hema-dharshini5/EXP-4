@@ -34,35 +34,77 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+<img width="641" height="846" alt="image" src="https://github.com/user-attachments/assets/a4e8eba3-a4c0-4a9f-8278-e9247762a892" />
 
-Half wave rectifier with filter:
+<img width="653" height="847" alt="image" src="https://github.com/user-attachments/assets/b56fe54d-9ec1-4e5a-b717-3a8e7922607a" />
 
-![WhatsApp Image 2025-11-11 at 21 39 59_7ddf2b5a](https://github.com/user-attachments/assets/2688da59-8b5c-4a66-b886-757f831b4c1a)
+<img width="648" height="838" alt="image" src="https://github.com/user-attachments/assets/33ba4090-f665-4127-905c-6ef583e3f884" />
 
-![WhatsApp Image 2025-11-11 at 21 40 07_a490dce2](https://github.com/user-attachments/assets/7b275b5f-3863-40bd-9f10-094ef139c98c)
+<img width="695" height="881" alt="image" src="https://github.com/user-attachments/assets/a26d4746-3422-4635-b9f1-633b8cad93d0" />
 
-Bridge rectifier with filter:
+<img width="633" height="875" alt="Screenshot 2025-12-05 001924" src="https://github.com/user-attachments/assets/e8255959-3502-4467-8e10-5aae84443041" />
 
-![WhatsApp Image 2025-11-11 at 21 39 59_4ce5e120](https://github.com/user-attachments/assets/26bd4c2d-e108-4695-ba80-064446297aad)
+<img width="743" height="875" alt="image" src="https://github.com/user-attachments/assets/fa0a9d0e-9a46-4118-b044-9614a5e76217" />
 
-![WhatsApp Image 2025-11-11 at 21 40 06_aaaf5bbf](https://github.com/user-attachments/assets/85d549c4-34e1-4948-9a88-e203e3555150)
+<img width="757" height="886" alt="image" src="https://github.com/user-attachments/assets/fbd2b4cf-cb40-4b82-b0b0-df4d476d9ebe" />
+
+<img width="750" height="886" alt="image" src="https://github.com/user-attachments/assets/52abc419-de14-4c4b-93a3-01363d15e4a7" />
+
+<img width="752" height="872" alt="image" src="https://github.com/user-attachments/assets/dc0810dc-0bf6-4aa7-9b79-473c60eadb5e" />
+
+<img width="607" height="830" alt="image" src="https://github.com/user-attachments/assets/cfdf3d6e-16f6-44dc-bdd7-5e1b20aa53a1" />
+
+<img width="612" height="877" alt="image" src="https://github.com/user-attachments/assets/7dc09cf0-b85b-43f3-a288-e5d39ce21217" />
 
 
-Rectifier without filter
 
-<img width="757" height="441" alt="Screenshot 2025-11-09 150028" src="https://github.com/user-attachments/assets/4e2432b9-e5bf-4ea3-8f0f-e4015a0d8dd1" />
+## OUTPUT 
 
 
-Rectifier with filter
+### Half wave rectifier with filter:
 
-<img width="757" height="433" alt="Screenshot 2025-11-09 150038" src="https://github.com/user-attachments/assets/e1ced5dc-9404-4e08-9efc-be195a8f9022" />
+<img width="1021" height="603" alt="image" src="https://github.com/user-attachments/assets/81804ff7-f216-4163-9820-ca3055e51233" />
 
-WAVEFORM:
 
-<img width="752" height="444" alt="Screenshot 2025-11-09 150047" src="https://github.com/user-attachments/assets/7f122155-bb43-4e23-8dc5-3cb15da5385b" />
+### Half wave rectifier without filter:
 
-<img width="763" height="403" alt="Screenshot 2025-11-09 150055" src="https://github.com/user-attachments/assets/62a914ed-dc3f-4620-802d-cffbc82c895b" />
+<img width="1017" height="606" alt="image" src="https://github.com/user-attachments/assets/1a528cb7-9a18-452a-9543-0f71a5347605" />
+
+
+### Full wave rectifier without filter
+
+<img width="970" height="611" alt="image" src="https://github.com/user-attachments/assets/59cb3b27-ed7c-4423-a19f-a6bac7305149" />
+
+
+### Full wave rectifier with filter
+
+<img width="1008" height="609" alt="image" src="https://github.com/user-attachments/assets/e4a854dc-1286-4071-a93f-8d34ea28ba4c" />
+
+
+
+## WAVEFORM:
+
+### Half wave rectifier with filter:
+
+<img width="1008" height="747" alt="image" src="https://github.com/user-attachments/assets/76e813de-819b-42b3-ad9e-d01f194bc1ba" />
+
+
+### Half wave rectifier without filter:
+
+
+<img width="969" height="614" alt="image" src="https://github.com/user-attachments/assets/1d885a2d-13f4-4084-a05e-8c7aea8fe42f" />
+
+
+### Full wave rectifier with filter
+
+<img width="953" height="606" alt="image" src="https://github.com/user-attachments/assets/e66a7818-98a2-40a8-879d-ab4780b7b3d2" />
+
+
+
+### Full wave rectifier without filter:
+
+<img width="933" height="602" alt="image" src="https://github.com/user-attachments/assets/61c4c4fc-9053-42dc-a26a-0df9208be939" />
+
 
 
 RESULT:
